@@ -1,0 +1,12 @@
+{
+  "author": "KANIYO KANIYONIKA",
+  "dependencies": {    },
+  "description": "This generates a \"SafeArea-Panel\" with the safe area as its scope.",
+  "displayName": "SafeAreaRect",
+  "keywords": [ "unity", "unity3d" ],
+  "license": "MIT",
+  "name": "com.kaniyonika.safe-area-rect",
+  "repository": "github:KANIYONIKA/SafeAreaRect",
+  "unity": "2020.3",
+  "version": "1.0.0"
+}
